@@ -17,7 +17,7 @@ layout: page
 <ul class="skill-list">
 	<li>HTML - JS - CSS</li>
 	<li>Javascript, TypescriptGru (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
+	<li>ReactJS</li>
 	<li>Python</li>
 	<li>SQL - MongoDB</li>
 	<li>Ruby on Rails</li>
