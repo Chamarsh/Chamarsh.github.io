@@ -1,0 +1,42 @@
+---
+title: "Quick Fit"
+layout: post
+date: 2022-01-12 22:10
+tag: jekyll
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is an React based website built with tailwind as a way to gain a deeper understanding of react and component based development."
+category: project
+author: Chase Marshall
+externalLink: false
+url: www.google.com
+---
+
+![](https://raw.githubusercontent.com/Chamarsh/quick-fit/master/src/assets/images/readmeImg.png)
+Quick Fit is a website which allows users to search through a wide plethora
+of different exercises. Users can search by exercise, body part, equipment,
+and more. Each exercise comes with an animated gif and related youtube videos
+to better help users understand how to properly perform each workout.   
+
+
+## Installation
+Download code from [repo](https://github.com/Chamarsh/quick-fit)
+
+Then run
+
+```bash
+npm install
+```
+
+If that doesn't work try running
+
+```bash
+npm install --legacy-peer-deps
+```
+
+
+### Libraries
+
+* React
+* Material UI
+  

@@ -7,25 +7,7 @@ pagination:
   enabled: true
 ---
 <section class="list">
-	{% if site.posts.size == 0 %}
-		<p class="text-center">Nothing published yet!</p>
-	{% elsif site.pagination.enabled %}
-		{% for post in paginator.posts %}
-			{% if post.category == 'blog' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-
-		{% include pagination.html%}
-	{% else %}
-		{% for post in site.posts %}
-			{% if post.category == 'blog' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
-	{% endif %}
+	<h4>A collection of interesting readings (books, articles, academic journals, etc) I have collected:</h4>
+	<br>
+	<a class="reading" href="http://www.paulgraham.com/selfindulgence.html">How to lose time and money</a>
 </section>
