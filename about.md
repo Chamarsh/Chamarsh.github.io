@@ -10,7 +10,7 @@ layout: page
 
 <p>Reach out at <a href="mailto: tdchase34@gmail.com">tdchase34@gmail.com</a></p>
 
-<p>I am particuraly interested in cloud technology, open source software, startups, </p>
+<p>I am particuraly interested in cloud technology, open source software, and startups.</p>
 
 <h2>Skills</h2>
 
